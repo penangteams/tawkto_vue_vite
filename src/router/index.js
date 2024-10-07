@@ -18,6 +18,11 @@ const router = createRouter({
           name: "cat",
           component: () => import("@/views/Category.vue"),
         },
+        {
+          path: "/:pathMatch(.*)*",
+          name: "ErrorView",
+          component: () => import("@/views/PageNotFound.vue"),
+        },
       ],
     },
   ],
