@@ -12,6 +12,8 @@ open two terminals at the directory and do:
 
 2) npm run server
 
+3) npm run test (optional) for running categories api fetching
+
 Frontend will be served at http://localhost:9000
 Backend api will be served at http://localhost:8000
 
@@ -42,7 +44,8 @@ Backend api will be served at http://localhost:8000
   GET http://localhost:8000/articles
 ```
 
-
+## Testing Reference
+File: Category.spec.js
 
 # Vue 3 + Vite
 
