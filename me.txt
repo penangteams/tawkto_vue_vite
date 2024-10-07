@@ -32,3 +32,9 @@ npm run dev
 
 A good ref for vuejs filters
 https://codesandbox.io/p/sandbox/filtering-array-items-in-vue-3-g6fww
+
+ref for Ui tests
+1) https://github.com/LazyFatArrow/vitest-mocking-patterns
+2) https://runthatline.com/how-to-mock-fetch-api-with-vitest/
+3) https://github.com/mayashavin/component-testing-vitest
+4) https://mayashavin.com/articles/testing-components-with-vitest
